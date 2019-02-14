@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="National Geographic",National Geographic HD
+http://192.168.1.90:9981/stream/channelid/1724764700?profile=pass
+#EXTINF:-1 tvg-id="Nat Geo Wild",NG Wild HD
+http://192.168.1.90:9981/stream/channelid/1741949758?profile=pass
+#EXTINF:-1 tvg-id="Viajar",Viajar HD
+http://192.168.1.90:9981/stream/channelid/1798685690?profile=pass
+#EXTINF:-1 tvg-id="#0" tvg-chno="1",#0 HD
+http://192.168.1.90:9981/stream/channelid/1515644267?profile=pass
+#EXTINF:-1 tvg-id="#Vamos" tvg-chno="2",#Vamos HD
+http://192.168.1.90:9981/stream/channelid/257425066?profile=pass
+#EXTINF:-1 tvg-id="Bein LaLiga" tvg-chno="3",beIN LaLiga HD
+http://192.168.1.90:9981/stream/channelid/786128428?profile=pass
+#EXTINF:-1 tvg-id="M. Liga de Campeones" tvg-chno="4",M. Liga Campeones HD
+http://192.168.1.90:9981/stream/channelid/76344992?profile=pass
+#EXTINF:-1 tvg-id="GOL" tvg-chno="5",GOL
+http://192.168.1.90:9981/stream/channelid/1025977089?profile=pass
+#EXTINF:-1 tvg-id="Movistar Deportes" tvg-chno="6",M. Deportes HD
+http://192.168.1.90:9981/stream/channelid/1366046459?profile=pass
+#EXTINF:-1 tvg-id="Movistar Deportes 1" tvg-chno="7",M. Deportes 1 HD
+http://192.168.1.90:9981/stream/channelid/1004489727?profile=pass
+#EXTINF:-1 tvg-id="Movistar Partidazo" tvg-chno="8",M. Partidazo HD
+http://192.168.1.90:9981/stream/channelid/108651334?profile=pass
+#EXTINF:-1 tvg-id="Movistar Fórmula 1" tvg-chno="9",M. Formula 1 HD
+http://192.168.1.90:9981/stream/channelid/684623286?profile=pass
+#EXTINF:-1 tvg-id="Movistar Golf" tvg-chno="10",M. Golf HD
+http://192.168.1.90:9981/stream/channelid/865346208?profile=pass
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-chno="11",Eurosport 1 HD
+http://192.168.1.90:9981/stream/channelid/650981068?profile=pass
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-chno="12",Eurosport 2
+http://192.168.1.90:9981/stream/channelid/144468099?profile=pass
+#EXTINF:-1 tvg-id="Bein LaLiga 1" tvg-chno="30",beIN LaLiga 1 HD
+http://192.168.1.90:9981/stream/channelid/639759951?profile=pass
+#EXTINF:-1 tvg-id="Bein LaLiga 2" tvg-chno="31",beIN LaLiga 2 HD
+http://192.168.1.90:9981/stream/channelid/270732421?profile=pass
+#EXTINF:-1 tvg-id="M. Liga de Campeones 1" tvg-chno="32",M. Liga Campeones 1 HD
+http://192.168.1.90:9981/stream/channelid/1357380340?profile=pass
+#EXTINF:-1 tvg-id="M. Liga de Campeones 2" tvg-chno="33",M. Liga Campeones 2 HD
+http://192.168.1.90:9981/stream/channelid/899983813?profile=pass
