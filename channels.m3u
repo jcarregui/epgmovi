@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="National Geographic", National Geographic HD
-http://192.168.1.90:9981/stream/channelid/1724764700?profile=pass
-#EXTINF:-1 tvg-id="Nat Geo Wild",NG Wild HD
-http://192.168.1.90:9981/stream/channelid/1741949758?profile=pass
-#EXTINF:-1 tvg-id="Viajar",Viajar HD
-http://192.168.1.90:9981/stream/channelid/1798685690?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ukGetOW.png" tvg-id="#0" tvg-chno="1",#0 HD
 http://192.168.1.90:9981/stream/channelid/1515644267?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8NmSGZP.png" tvg-id="#Vamos" tvg-chno="2",#Vamos HD
@@ -28,6 +22,22 @@ http://192.168.1.90:9981/stream/channelid/865346208?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bvefX3O.png" tvg-id="Eurosport 1" tvg-chno="11",Eurosport 1 HD
 http://192.168.1.90:9981/stream/channelid/650981068?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UZykNAi.png" tvg-id="Eurosport 2" tvg-chno="12",Eurosport 2
+#EXTINF:-1 tvg-id="Movistar Estrenos" tvg-logo="https://i.imgur.com/n2jw50h.png" tvg-chno="20",M. Estrenos HD
+http://192.168.1.90:9981/stream/channelid/965356509?profile=pass
+#EXTINF:-1 tvg-id="M. Drama" tvg-logo="https://i.imgur.com/zgePt7X.png" tvg-chno="21",M. Drama HD
+http://192.168.1.90:9981/stream/channelid/329949681?profile=pass
+#EXTINF:-1 tvg-id="Movistar Acción" tvg-logo="https://i.imgur.com/coruqO8.png" tvg-chno="22",M. Acción HD
+http://192.168.1.90:9981/stream/channelid/1254298453?profile=pass
+#EXTINF:-1 tvg-id="Movistar Comedia" tvg-logo="https://i.imgur.com/d6G5hit.png" tvg-chno="23",M. Comedia HD
+http://192.168.1.90:9981/stream/channelid/1090669546?profile=pass
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://i.imgur.com/pkdCA1u.png" tvg-chno="24",TCM HD
+http://192.168.1.90:9981/stream/channelid/413795041?profile=pass
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.imgur.com/gFJrmOe.png" tvg-chno="25",National Geographic HD
+http://192.168.1.90:9981/stream/channelid/1724764700?profile=pass
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="https://i.imgur.com/QNTLRji.png" tvg-chno="26",Nat Geo Wild HD
+http://192.168.1.90:9981/stream/channelid/1741949758?profile=pass
+#EXTINF:-1 tvg-id="Viajar" tvg-logo="https://i.imgur.com/I1UPa4w.png" tvg-chno="27",Viajar HD
+http://192.168.1.90:9981/stream/channelid/1798685690?profile=pass
 http://192.168.1.90:9981/stream/channelid/144468099?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZjZOpF.png" tvg-id="Bein LaLiga 1" tvg-chno="30",beIN LaLiga 1 HD
 http://192.168.1.90:9981/stream/channelid/639759951?profile=pass
