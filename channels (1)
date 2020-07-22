@@ -1,0 +1,171 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/134" tvg-id="LA 1 HD",La 1 HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1326479362?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/135" tvg-id="La 2",La 2
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/170298483?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/136" tvg-id="ANTENA 3 HD",Antena 3 HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/508498427?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/137" tvg-id="CUATRO HD",Cuatro HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1981787225?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/138" tvg-id="TELECINCO HD",Telecinco HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1243794226?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/139" tvg-id="LA SEXTA HD",La Sexta HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/139004983?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/140" tvg-id="#0 HD",#0 HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1480895742?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/141" tvg-id="#VAMOS HD",#Vamos HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1216547786?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/142" tvg-id="M. SERIES HD",M. Series HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1297326040?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/143" tvg-id="M.Seriesmania HD",M. Seriesmania HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1554684670?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/144" tvg-id="FOX HD",FOX HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/24842519?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/145" tvg-id="AXN HD",AXN HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/611755596?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/146" tvg-id="TNT HD",TNT HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1855634373?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/147" tvg-id="COMEDYCENTRAL HD",Comedy Central HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/846685515?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/148" tvg-id="CALLE 13 HD",Calle 13 HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/758708173?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/149" tvg-id="COSMO HD",Cosmo HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1697331743?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/150" tvg-id="AMC HD",AMC HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1172300199?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/151" tvg-id="FOX LIFE HD",FOX Life HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/504860201?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/152" tvg-id="AXN WHITE HD",AXN White HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/403590503?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/153" tvg-id="SYFY HD",SYFY HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1446941304?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/223" tvg-id="M.ESTRENOS HD",M. Estrenos HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1662427994?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/155" tvg-id="M.CineDocRoll",M.CineDoc&Roll
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/663438114?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/156" tvg-id="M. DISNEY",Disney+
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1092680372?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/157" tvg-id="M. ACCION HD",M. Acción HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/480021283?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/158" tvg-id="M.COMEDIA HD",M. Comedia HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/30884032?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/159" tvg-id="M. DRAMA HD",M. Drama HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/85000985?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/160" tvg-id="M. Cine Español",M. Cine Español
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1185549511?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/161" tvg-id="TCM HD",TCM HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/2014256277?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/162" tvg-id="HOLLYWOOD HD",Hollywood HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1985291392?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/163" tvg-id="SUNDANCE TV",Sundance TV
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1532119736?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/164" tvg-id="PARAMOUNT",Paramount Network
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/610290060?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/165" tvg-id="M. LaLiga HD",M. LaLiga HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1145969320?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/166" tvg-id="M. LaLiga 1 HD",M. LaLiga 1 HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1085847437?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/167" tvg-id="M. LaLiga 2 HD",M. LaLiga 2 HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/113408930?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/168" tvg-id="M. LaLiga 3 HD",M. LaLiga 3 HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1146273202?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/169" tvg-id="M.LCAMPEONES",M. Liga de Campeones HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1797288499?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/170" tvg-id="M. DEPORTES",M. Deportes HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1919483560?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/171" tvg-id="M.FORMULA1 HD",M. Fórmula 1 HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/211839810?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/172" tvg-id="M. GOLF HD",M. Golf HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1695219365?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/173" tvg-id="EUROSPORT1",Eurosport 1 HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1582772987?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/174" tvg-id="EUROSPORT 2",Eurosport 2
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/879505002?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/175" tvg-id="TELEDEPORTE",Teledeporte
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/678430219?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/176" tvg-id="TOROS HD",Toros HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1256256929?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/177" tvg-id="NAT GEO HD",National Geografic HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/819517301?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/178" tvg-id="NAT GEO WILD",NatGeo Wild HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1013682820?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/179" tvg-id="HISTORIA",Historia
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/530945550?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/180" tvg-id="DISCOVERY",Discovery
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/134706983?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/181" tvg-id="ODISEA",Canal Odisea
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1239756584?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/182" tvg-id="BLAZE",Blaze
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/258141030?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/4726" tvg-id="VIAJAR HD",Viajar HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1637683474?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/185" tvg-id="CRIMEN+INVES",Crimen+Investigación
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1215344436?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/194" tvg-id="CANAL COCINA",Canal Cocina
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1915090869?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/192" tvg-id="CANAL DECASA",Decasa
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/362465969?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/193" tvg-id="BABY TV",Baby TV
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/242902992?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/189" tvg-id="DISNEY JR",Disney Junior
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/715534698?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/190" tvg-id="CANAL PANDA",Canal Panda
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1714112086?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/191" tvg-id="NICK JR",Nick Jr.
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1777165355?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/187" tvg-id="NICKELODEON HD",Nickelodeon HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/454762934?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/195" tvg-id="DISNEY CH HD",Disney Channel HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/586739817?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/186" tvg-id="BOING",Boing
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1276125656?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/188" tvg-id="CLAN  TVE",Clan
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1667043820?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/198" tvg-id="M.LCAMPEON1",M. Liga de Campeones 1 HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1333887548?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/201" tvg-id="M.LCAMPEON2",M. Liga de Campeones 2 HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/736627243?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/217" tvg-id="M.LCAMPEON3",M. Liga de Campeones 3
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/271749243?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/210" tvg-id="M.LCAMPEON4",M. Liga de Campeones 4
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/793854780?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/199" tvg-id="M.LCAMPEON5",M. Liga de Campeones 5
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/633620860?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/211" tvg-id="M.LCAMPEON6",M. Liga de Campeones 6
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/2120115132?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/212" tvg-id="M.LCAMPEON7",M. Liga de Campeones 7
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/437866995?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/205" tvg-id="M.LCAMPEON8",M. Liga de Campeones 8
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/945144779?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/215" tvg-id="M. LaLiga 4",M. LaLiga 4
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1933767426?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/204" tvg-id="M. LaLiga 5",M. LaLiga 5
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/619228331?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/206" tvg-id="M. LaLiga 6",M. LaLiga 6
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/193916962?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/213" tvg-id="M. LaLiga 7",M. LaLiga 7
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1709450522?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/203" tvg-id="M. LaLiga 8",M. LaLiga 8
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1515923400?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/200" tvg-id="M. LaLiga 9",M. LaLiga 9
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1719009413?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/214" tvg-id="M.DEPORTES 1 HD",M. Deportes 1 HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1695055689?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/197" tvg-id="40279c9d733da572b942462f5c654a55",M. Deportes 2
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/496772928?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/216" tvg-id="af721794eb1f5d4b00c366de2136b959",M. Deportes 3
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/337081007?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/209" tvg-id="a7d1cb07a0382c9d5b663a423f42de16",M. Deportes 4
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/130797991?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/202" tvg-id="478dd4c3e21c9618ad3ce8325b9c5bee",M. Deportes 5
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1138003271?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/207" tvg-id="bd992118698c4b4a0773e345485fb34e",M. Deportes 6
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/404855229?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/208" tvg-id="a6ffe8103502d5b4e3bd7b5cd3d575da",M. Deportes 7
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/283705254?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/220" tvg-id="LALIGATV BAR",LaLiga TV Bar HD
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1786276692?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/219" tvg-id="GOL",GOL
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1090588931?profile=pass
+#EXTINF:-1 tvg-logo="http://tvpapa:pepe@jcarregui.duckdns.org:9981/imagecache/184" tvg-id="PLAYBOY",Playboy TV
+http://tvpapa:pepe@jcarregui.duckdns.org:9981/stream/channelid/1284935575?profile=pass
